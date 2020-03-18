@@ -17,3 +17,5 @@ process.on('message', function(content) {
 });
 
 }
+
+client.login(process.env.Njg5NDc2NTY3OTU2NDU1NDg0.XnIniw.5KneJXXFJHEs4zGgj74Th1sKkRA);
